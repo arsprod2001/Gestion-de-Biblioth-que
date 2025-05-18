@@ -22,8 +22,8 @@
         "Auteur": "Robert",
         "Annee": 2000,
         "ID": 8,
-        "Lu": false,
-        "Note": null,
-        "Commentaire": ""
+        "Lu": true,
+        "Note": 7,
+        "Commentaire": "Livre interessant"
     }
 ]

@@ -1,6 +1,6 @@
 from app.bibliotheque import *
 
-fichier = "data/gestion.json"
+fichier = "data/Bibliotheque.json"
 
 while True:
     print("\n=== MENU BIBLIOTHÈQUE ===")
